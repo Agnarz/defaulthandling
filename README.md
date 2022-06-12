@@ -1,2 +1,2 @@
 # defaulthandling
- all handling lines for gta v
+ all default handling lines for gta v
